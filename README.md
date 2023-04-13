@@ -5,6 +5,8 @@
 ## Overview
 
 ![image](https://user-images.githubusercontent.com/44605305/231791727-7e2c09a0-c23c-49e3-83a6-cf99741f383f.png)
+![image](https://user-images.githubusercontent.com/44605305/231792305-3bc1521a-fac9-49c7-a2c0-f78a3089f202.png)
+![image](https://user-images.githubusercontent.com/44605305/231792366-b6b63dff-7ea4-4d70-ac83-d2336dc99906.png)
 
 We set out to make a connect 4 board game swift iOS application using storyboard with a Model
 View Controller architecture. The base project already gave us a good start. It contained a
@@ -12,11 +14,7 @@ gameSession protocol with all the common methods that we would need such as isVa
 which checks if a discDrop is valid for a given column. The αC4 ai provided us with an ai that
 could play connect 4. Furthermore, we were provided some ViewController class that demonstrated
 how to implement the protocol and a few other pieces such as the printed board, boardInit function,
-etc. [
-
-![image](https://user-images.githubusercontent.com/44605305/231790243-74d02aca-c1e3-44b6-aee3-f1889a72724d.png)
-![image](https://user-images.githubusercontent.com/44605305/231791871-a37efac5-f440-4bf2-a525-1d790653e412.png)
-![image](https://user-images.githubusercontent.com/44605305/231791925-1a2da1d0-17d8-4e2c-8e36-61eac73888a5.png)
+etc. 
 
 ## First Steps
 The first thing I did was create the model, then the view and finally the viewController. Some of
@@ -81,9 +79,6 @@ user. The class also has a tap method that is called whenever the user taps the 
 playerTurn method that is called whenever it is the player’s turn to make a move. Additionally,
 the Connect4ViewController class has a number of private helper methods for handling game logic
 and displaying messages to the user.
-
-
-![image](https://user-images.githubusercontent.com/44605305/231791160-51849d47-5cd2-4ab2-b64f-e643d5c5a771.png)
 
 
 #### Bibliography
