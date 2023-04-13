@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/44605305/231792366-b6b63dff-7ea4-4d70-ac83-d2336dc99906.png)
 
 We set out to make a connect 4 board game swift iOS application using storyboard with a Model
-View Controller architecture. 
+View Controller architecture [1]. 
 ![image](https://user-images.githubusercontent.com/44605305/231793183-21eaa8a5-1448-4405-9dde-e04b2171a4ef.png)
 
 ## First Steps
