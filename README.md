@@ -44,5 +44,4 @@ Glossary/MVC.
 
 [2] R. Chuang, Github. [Online]. Available: https://github.com/5j54d93/Connect-4-iOSGame.
 
-[3] G. Theodoropoulos, Bezier paths introduction. [Online]. Available: https://www.appcoda.
-com/bezier-paths-introduction/.
+[3] G. Theodoropoulos, Bezier paths introduction. [Online]. Available: https://www.appcoda.com/bezier-paths-introduction/.
