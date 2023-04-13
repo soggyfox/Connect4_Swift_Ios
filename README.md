@@ -28,7 +28,7 @@ and hole positions on the board.
 
 ### The View
 The view is divided in to the connect4 View and the discView.
-The DiscView class represents a graphical disc that can be displayed in an iOS user interface [2] [3]
+The DiscView class represents a graphical disc that can be displayed in an iOS user interface [3]
 
 ### View Controller
 The Connect4ViewController still needs a lot of work. The connect4 Model and the connect 4
@@ -41,7 +41,5 @@ for displaying the game board, and a Connect4Model for handling game logic.
 #### Bibliography
 [1] Mozilla, Mozilla mvc. [Online]. Available: https://developer.mozilla.org/en-US/docs/
 Glossary/MVC.
-
-[2] R. Chuang, Github. [Online]. Available: https://github.com/5j54d93/Connect-4-iOSGame.
 
 [3] G. Theodoropoulos, Bezier paths introduction. [Online]. Available: https://www.appcoda.com/bezier-paths-introduction/.
