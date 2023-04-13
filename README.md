@@ -3,6 +3,9 @@
 # Connect 4 Swift IOS Game
 
 ## Overview
+
+![image](https://user-images.githubusercontent.com/44605305/231791727-7e2c09a0-c23c-49e3-83a6-cf99741f383f.png)
+
 We set out to make a connect 4 board game swift iOS application using storyboard with a Model
 View Controller architecture. The base project already gave us a good start. It contained a
 gameSession protocol with all the common methods that we would need such as isValidMove
@@ -12,6 +15,8 @@ how to implement the protocol and a few other pieces such as the printed board, 
 etc. [
 
 ![image](https://user-images.githubusercontent.com/44605305/231790243-74d02aca-c1e3-44b6-aee3-f1889a72724d.png)
+![image](https://user-images.githubusercontent.com/44605305/231791871-a37efac5-f440-4bf2-a525-1d790653e412.png)
+![image](https://user-images.githubusercontent.com/44605305/231791925-1a2da1d0-17d8-4e2c-8e36-61eac73888a5.png)
 
 ## First Steps
 The first thing I did was create the model, then the view and finally the viewController. Some of
