@@ -41,6 +41,8 @@ for displaying the game board, and a Connect4Model for handling game logic.
 #### Bibliography
 [1] Mozilla, Mozilla mvc. [Online]. Available: https://developer.mozilla.org/en-US/docs/
 Glossary/MVC.
+
 [2] R. Chuang, Github. [Online]. Available: https://github.com/5j54d93/Connect-4-iOSGame.
+
 [3] G. Theodoropoulos, Bezier paths introduction. [Online]. Available: https://www.appcoda.
 com/bezier-paths-introduction/.
